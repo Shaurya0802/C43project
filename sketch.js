@@ -1,4 +1,4 @@
-var gameState = PLAY;
+var gameState;
 
 var cow, cowImg;
 var ground, invisibleGround;
